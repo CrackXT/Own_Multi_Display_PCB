@@ -4,15 +4,14 @@ PCB files for Mulit Display Board
 
 # Description
 
-x
+This board serves as a development platform for finished devices with different display sizes.
 
-https://www.adafruit.com/product/4694
+- MiP 2,7" https://www.adafruit.com/product/4694
+- TFT IPS 1,9" https://www.adafruit.com/product/5394
+- TFT IPS 1,69" https://www.adafruit.com/product/5206
+- TFT IPS 1,47" https://www.adafruit.com/product/5393
 
-https://www.adafruit.com/product/5394
-
-https://www.adafruit.com/product/5206
-
-https://www.adafruit.com/product/5393
+With a programmable status LED (RGB, SK6812-E) and an ambient light sensor (analogue, ALS-PT19) to regulate the brightness of TFT screens.
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
