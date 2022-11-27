@@ -13,6 +13,8 @@ This board serves as a development platform for finished devices with different 
 
 With a programmable status LED (RGB, SK6812-E) and an ambient light sensor (analogue, ALS-PT19) to regulate the brightness of TFT screens.
 
+The screen, LED and ambient light sensor can be controlled via the existing Featherformat socket and the MCU used in it.
+
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
 
 # Serie
