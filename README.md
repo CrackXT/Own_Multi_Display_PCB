@@ -7,8 +7,11 @@ PCB files for Mulit Display Board
 x
 
 https://www.adafruit.com/product/4694
+
 https://www.adafruit.com/product/5394
+
 https://www.adafruit.com/product/5206
+
 https://www.adafruit.com/product/5393
 
 The board can be produced here (AISLER) with the files (.brd and .sch) or by any other PCB manufacturer. -> https://aisler.net/
