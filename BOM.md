@@ -12,7 +12,7 @@ part list for Use
 1x SK6812MINI-E https://eckstein-shop.de/OPSCO10xRGBLEDwithICSK6812SMD35284PINSK6812MINI-E-10
 
 # resistor
-x
+1x 100k Ohm 0805
 
 # capacitor
 x
