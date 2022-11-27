@@ -30,4 +30,4 @@ part list for Use
 1x 1X16 https://www.reichelt.de/buchsenleiste-2-54mm-1x16-gerade-bkl-10120953-p266678.html?&nbc=1
 
 # button
-2x x
+2x APEM PHAP3363 (THT Side) https://www.conrad.de/de/p/apem-phap3363-drucktaster-12-v-dc-0-05-a-1-x-aus-ein-tastend-1-st-700310.html
