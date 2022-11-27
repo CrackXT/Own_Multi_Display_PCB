@@ -18,7 +18,7 @@ The board can be produced here (AISLER) with the files (.brd and .sch) or by any
 
 # Serie
 
-.dev
+- .dev
 
 # Layout
 
