@@ -32,6 +32,8 @@ Bottom
 Routing/Dimensions(inch)
 ![Multi_Display_v1 0](https://user-images.githubusercontent.com/88975406/204143062-64d1df51-b336-465a-8c0b-363bb8d537d5.png)
 
+Schematic -> Schematic as .pdf at the top of the page
+
 # License
 
 Open hardware, use it, mod it, whatever you want, feel free...
