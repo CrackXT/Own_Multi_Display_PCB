@@ -1,6 +1,6 @@
 # Own_Multi_Display_PCB
 
-PCB files for Mulit Display Board
+PCB files for Multi Display Board
 
 # Description
 
