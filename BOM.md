@@ -15,19 +15,18 @@ part list for Use
 2x 0,1µF 0805 https://www.reichelt.de/dk/de/smd-vielschichtkondensator-g0805-1-0-f-25v-x7r-g0805-1-0-25-p89730.html?&trstct=pol_4&nbc=1
 
 # socket strips
-1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=pol_0&nbc=1
+1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=pol_0&nbc=1<br>
 
-1x 1X9 
-- 1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=vrt_pdn&nbc=1
-- 1x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=vrt_pdn&nbc=1
+1x 1X9<br>
+- 1x 1X4 https://www.reichelt.de/buchsenleiste-2-54mm-1x4-gerade-bkl-10120946-p266671.html?&trstct=vrt_pdn&nbc=1<br>
+- 1x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=vrt_pdn&nbc=1<br>
 
-3x 1X11 
-- 3x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=vrt_pdn&nbc=1
-- 3x 1X6 https://www.reichelt.de/buchsenleiste-2-54mm-1x6-gerade-bkl-10120948-p266673.html?&trstct=vrt_pdn&nbc=1
+3x 1X11<br>
+- 3x 1X5 https://www.reichelt.de/buchsenleiste-2-54mm-1x5-gerade-bkl-10120947-p266672.html?&trstct=vrt_pdn&nbc=1<br>
+- 3x 1X6 https://www.reichelt.de/buchsenleiste-2-54mm-1x6-gerade-bkl-10120948-p266673.html?&trstct=vrt_pdn&nbc=1<br>
 
-1x 1X12 https://www.reichelt.de/buchsenleiste-2-54mm-1x12-gerade-bkl-10120951-p266676.html?&trstct=pol_1&nbc=1
-
-1x 1X16 https://www.reichelt.de/buchsenleiste-2-54mm-1x16-gerade-bkl-10120953-p266678.html?&nbc=1
+1x 1X12 https://www.reichelt.de/buchsenleiste-2-54mm-1x12-gerade-bkl-10120951-p266676.html?&trstct=pol_1&nbc=1<br>
+1x 1X16 https://www.reichelt.de/buchsenleiste-2-54mm-1x16-gerade-bkl-10120953-p266678.html?&nbc=1<br>
 
 # button
 2x APEM PHAP3363 (THT Side) https://www.conrad.de/de/p/apem-phap3363-drucktaster-12-v-dc-0-05-a-1-x-aus-ein-tastend-1-st-700310.html
